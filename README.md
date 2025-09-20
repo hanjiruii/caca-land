@@ -4,5 +4,5 @@
 [King Fritz](https://github.com/hanjiruii/caca-land/tree/King-Fritz)
 ![Alt text](https://static.wikia.nocookie.net/shingekinokyojin/images/3/3e/Fritz_character_image.png/revision/latest?cb=20191020033930)
 
-[Ymir Fritz]
+![Ymir Fritz](https://github.com/hanjiruii/caca-land/blob/Ymir-Fritz/ymir.md)
 (https://static.wikia.nocookie.net/shingekinokyojin/images/e/ea/Ymir_Fritz_%28Anime%29_character_image_%28990_B1%29.png/revision/latest?cb=20220206233111)
