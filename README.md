@@ -9,4 +9,4 @@
 ![Alt text](https://static.wikia.nocookie.net/shingekinokyojin/images/e/ea/Ymir_Fritz_%28Anime%29_character_image_%28990_B1%29.png/revision/latest?cb=20220206233111)
 
 ![Alt text](https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/02/Attack-on-Titan-Ymir-Fritz-Founder-header.png)
-![The Cause](image-url "Optional title")
+![The Cause](https://github.com/hanjiruii/caca-land/blob/the-cause/the%20cause)
